@@ -1,0 +1,7 @@
+requests
+pyotp
+smartapi-python
+websocket-client
+omspy
+oauthlib
+webdriver_manager
